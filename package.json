@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.683.0",
+    "aws-sdk": "^2.814.0",
     "ts-loader": "^7.0.4",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
